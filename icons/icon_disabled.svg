@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+<!-- left vertical -->
+  <rect x="4" y="0" width="8" height="64" fill="context-fill" fill-opacity="context-fill-opacity"/>
+  <!-- top horizontal-->
+  <rect x="12" y="0" width="40" height="8" fill="context-fill" fill-opacity="context-fill-opacity"/>
+  <!-- bottom horizontal-->
+  <rect x="12" y="56" width="40" height="8" fill="context-fill" fill-opacity="context-fill-opacity"/>
+  <!-- right vertical -->
+  <rect x="52" y="0" width="8" height="64" fill="context-fill" fill-opacity="context-fill-opacity"/>
+  <!-- middle vertical -->
+  <rect x="28" y="8" width="8" height="48" fill="context-fill" fill-opacity="context-fill-opacity"/>
+  <!-- middle horizontal -->
+  <rect x="12" y="28" width="16" height="8" fill="context-fill" fill-opacity="context-fill-opacity"/>
+  <rect x="36" y="28" width="16" height="8" fill="context-fill" fill-opacity="context-fill-opacity"/>
+
+  <rect x="0" y="60" height="4" width="4" fill="context-fill" fill-opacity="context-fill-opacity"/>
+  <rect x="60" y="60" height="4" width="4" fill="context-fill" fill-opacity="context-fill-opacity"/>
+</svg>
